@@ -1,0 +1,1 @@
+Upload firmware open adb telnet terlebih dahulu, setelah itu baru upload firmware open b1 b3 b8 b40 nya.
